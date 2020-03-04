@@ -1,0 +1,6 @@
+cp\edu\uniandes\csw\recipe\ejb\RecipeLogic.class
+co\edu\uniandes\csw\recipe\entities\persistence\RecipePersistence.class
+co\edu\uniandes\csw\recipe\entities\BaseEntity.class
+co\edu\uniandes\csw\recipe\exceptions\BusinessLogicException.class
+co\edu\uniandes\csw\recipe\entities\RecipeEntity.class
+co\edu\uniandes\csw\recipe\entities\IngredienteEntity.class
